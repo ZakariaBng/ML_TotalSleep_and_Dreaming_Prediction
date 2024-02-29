@@ -5,7 +5,9 @@ Predicting the total sleep and the dreaming time of mammals
 • Install requirements :
 
 pip install - r requirements-dreaming_prediction.txt (to predict Dreaming).
+
 pip install - r requirements-totalsleep-prediction.txt (to predict Totalsleep).
+
 pip install - r requirements-correlation-biological-ecological-attributes.txt (to see the correlation between biological & ecological atributes).
 
 # Project purpose :
